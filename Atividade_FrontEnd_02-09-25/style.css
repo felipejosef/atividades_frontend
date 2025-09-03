@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(235, 199, 162);
+}
+#lista {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 10px solid rgb(20, 247, 247);
+}
+.itens{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(11, 138, 17);
+    text-align: left;
+}
